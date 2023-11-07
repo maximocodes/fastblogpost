@@ -1,5 +1,5 @@
 # File for database connection initialization
-#TODO add .env file for db parameters
+#TODO add .env file for db parameters add them
 
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
